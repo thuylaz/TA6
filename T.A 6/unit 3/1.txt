@@ -1,0 +1,8 @@
+﻿Write a paragraph to give instruction to install computer software or hardware
+1. What computer software/ hardware do you want to install?
+2. What is computer software/ hardware used for?
+3. How many steps are there?
+4. What are done in each step?
+5. What notes/ cautions do you need to consider? (if necessary)
+
+Today, I will share how to install the CodeBlocks which is used for compiling code. There are 6 steps to install the CodeBlocks. Firstly, you need to have an installer version of the CodeBlocks or you can download from the internet. Secondly, decompression the installer version into any folder. Thirdly, run file CodeBlocks.EXE by double-click on its icon. After, choose the destination folder. Then, follow the onscreen instructions to install this program. The program is installed automatically. Finally, after installing the CodeBlocks, you need to refresh your desktop screen. In addition, there is one small note. When installing CodeBlocks, you should install it with the version "mingw" to avoid errors when run CodeBlocks.

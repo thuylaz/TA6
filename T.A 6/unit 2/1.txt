@@ -1,0 +1,8 @@
+﻿Write a paragraph (120-140 words) to describe steps to develop a software you know well.
+1. What software do you want to describe?
+2. What is this software used for?
+3. How many steps are there?
+4. What are the steps?
+5. What notes do you need to consider? (if necessary)
+
+Nowadays, there are many software pages that are popular with users. Photoshop is a software developed and used by many people. It is used for editing digital photo applications. There are 6 steps to developing that software structure. Firstly, you should calculate the strengths and weaknesses of the project. Secondly, you analyze the performance of the software at various stages and make notes on additional requirements. Once the analysis is complete, the step of designing takes over. You should design the software by basically building the architecture of the project. Next, once the software is developed, the stage of implementation comes in where the product goes through a pilot study. Then, you should test the software for errors and document bugs if there are any. Finally, once the software passes through all the stages without any issue, it is to undergo a maintenance process. In particular, you should attention to the design because if the design is easy to use and lively, the user will use more. 

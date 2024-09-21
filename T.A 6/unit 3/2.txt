@@ -1,0 +1,8 @@
+﻿Write a paragraph to describe a computer maintenance procedure (at least two components).
+1. What computer components are maintained?
+2. How often is each component maintained?
+3. What activities are done in each component’s maintenance?
+4. What is the most important step in maintenance procedure?
+5. Why is the maintenance necessary?
+
+Computer maintenance is what you should do regularly with your computer. Because if you do not do those things, your computer may experience serious effects. The components you should regularly maintain such as keyboard, inside the case, monitor. You should maintain them regularly, about once a week is the reasonable. For keyboards, you should use a dedicated brush to sweep into the slots below the key. Keep the keyboard clean and away from liquids. For monitors, you should use a special wash and clean the screen with a soft cloth. You should make sure the air vents are clear and avoid scratching the screen. Finally and most importantly, you need maintain inside the case. Computer maintenance is necessary because it keeps your computer clean, improves working efficiency, increases computer lifespan.
